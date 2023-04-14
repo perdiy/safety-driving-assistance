@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "861460921184",
+    "project_id": "safety-driving-237a7",
+    "storage_bucket": "safety-driving-237a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861460921184:android:1697a0364b3813e991fc05",
+        "android_client_info": {
+          "package_name": "com.example.safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861460921184-1eot8kdmfulf180prsnkfnod66ld1tbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiqDAdLNOv9-XbZpN98bf6wv8MpebS4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861460921184-1eot8kdmfulf180prsnkfnod66ld1tbl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861460921184-kg0ur8ef876p5cdo758onorahqp300hp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
